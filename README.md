@@ -11,21 +11,26 @@ pempek-mama-eri/
 └── assets/
     ├── style.css
     ├── script.js
-    ├── logo.png          ← logo bulat kamu
-    ├── hero.jpg           ← foto besar di bagian paling atas
-    ├── tentang.jpg        ← foto untuk bagian "Tentang Kami"
+    ├── logo.png          ← sudah ada (logo asli kamu)
+    ├── hero.jpg           ← foto besar di bagian paling atas (masih perlu diisi)
+    ├── tentang.jpg        ← foto untuk bagian "Tentang Kami" (masih perlu diisi)
     └── produk/
         ├── lenjer.jpg
         ├── adaan.jpg
         ├── kapal-selam-medium.jpg
         ├── kapal-selam-jumbo.jpg
         ├── kapal-selam-ranjau-pedas.jpg
-        ├── paket-10pcs.jpg
-        ├── paket-50-100rb.jpg
-        └── paket-300-500rb.jpg
+        ├── paket-50rb.jpg
+        ├── paket-100rb.jpg
+        ├── paket-150rb.jpg
+        ├── paket-250rb.jpg
+        ├── paket-300rb.jpg
+        └── paket-500rb.jpg
 ```
 
-**Cara pakai:** buat folder `produk` di dalam `assets`, lalu taruh foto dengan nama file **persis** seperti di atas (huruf kecil semua, pakai tanda strip `-`, format `.jpg` untuk foto produk/hero/tentang dan `.png` untuk logo). Begitu file itu ada, placeholder otomatis hilang dan foto langsung muncul — tidak perlu ubah kode apa pun.
+**Cara pakai:** buat folder `produk` di dalam `assets`, lalu taruh foto dengan nama file **persis** seperti di atas (huruf kecil semua, pakai tanda strip `-`, format `.jpg` untuk foto produk/hero/tentang). Begitu file itu ada, placeholder otomatis hilang dan foto langsung muncul — tidak perlu ubah kode apa pun.
+
+Logo sudah otomatis kepasang di navbar dan jadi favicon (ikon kecil di tab browser).
 
 ## Yang masih perlu kamu isi
 

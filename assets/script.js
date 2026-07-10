@@ -22,9 +22,12 @@ const CONFIG = {
   ],
 
   paket: [
-    { key: "paket-10pcs", nama: "Paket Per 10 Pcs (Lenjer, Adaan, Kulit, Selam Mini)", harga: "Rp 60.000 – Rp 65.000", desc: "Bisa pilih satu jenis: Lenjer, Adaan, Kulit, atau Mini — pas buat cemilan rame-rame." },
-    { key: "paket-50-100rb", nama: "Paket Pempek Palembang Campur (50–100rb)", harga: "Rp 50.000 – Rp 100.000", desc: "Campuran lengkap plus cuko, mie, timun, dan cabai rawit." },
-    { key: "paket-300-500rb", nama: "Paket Pempek Palembang Campur (300–500rb)", harga: "Rp 300.000 – Rp 500.000", desc: "Ukuran besar untuk acara/arisan/kantor. Pre-order, dikirim dalam 3 hari." }
+    { key: "paket-50rb", nama: "Paket Pempek Palembang Campur 50rb", harga: "Rp 50.000", desc: "Campuran lengkap plus cuko, mie, timun, dan cabai rawit — pas buat 1-2 orang." },
+    { key: "paket-100rb", nama: "Paket Pempek Palembang Campur 100rb", harga: "Rp 100.000", desc: "Isi lebih banyak dari paket 50rb, cocok buat berdua atau nemenin ngumpul kecil." },
+    { key: "paket-150rb", nama: "Paket Pempek Palembang Campur 150rb", harga: "Rp 150.000", desc: "Porsi lebih besar, pas buat keluarga kecil atau teman kantor." },
+    { key: "paket-250rb", nama: "Paket Pempek Palembang Campur 250rb", harga: "Rp 250.000", desc: "Cocok buat acara kumpul-kumpul dengan tamu lebih banyak." },
+    { key: "paket-300rb", nama: "Paket Pempek Palembang Campur 300rb", harga: "Rp 300.000", desc: "Ukuran besar untuk acara/arisan/kantor. Pre-order, dikirim dalam 3 hari." },
+    { key: "paket-500rb", nama: "Paket Pempek Palembang Campur 500rb", harga: "Rp 500.000", desc: "Paket paling besar, cocok untuk acara besar/kantor. Pre-order, dikirim dalam 3 hari." }
   ]
 };
 
